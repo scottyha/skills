@@ -1,0 +1,11 @@
+{
+  "name": "scottyha-skills",
+  "version": "1.0.0",
+  "description": "Pi skills — structured methodology documents for AI coding agents.",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottyha/skills.git"
+  }
+}
